@@ -148,3 +148,36 @@ If you have a suggestion that would make this better, please fork the repo and c
 Distributed under the MIT License. `Open Source` is pretty self-descriptive.
 
 <p align="right"><a href="#readme-top">Back to top ⬆️</a></p>
+
+# Clément Delaunoy
+
+Bienvenue sur mon LinkHub! Suivez-moi sur tous mes réseaux sociaux.
+
+## À propos de moi
+
+Je suis Clément Delaunoy, Ingénieur DevOps en Alternance. Passionné par la technologie et toujours à la recherche de nouveaux défis.
+
+## Réseaux Sociaux
+
+- [GitHub](https://github.com/kuramentooo) - clementdelaunoy
+- [LinkedIn](https://www.linkedin.com/in/delaunoy-cl%C3%A9ment-10a433220/) - clementdelaunoy
+- [Instagram](https://www.instagram.com/dln_cle/) - clementdelaunoy
+- [Mail](mailto:delaunoyclement@gmail.com) - delaunoyclement@gmail.com
+- [Discord](https://discord.gg/exbaUF2v5k) - clementdelaunoy
+- [GitLab](https://gitlab.com/ClemD05) - JSONLinks
+
+## Projets en vedette
+
+- [GitHub](https://github.com/kuramentooo) - Watch my projects
+
+## Boutons
+
+- [LinkedIn](https://www.linkedin.com/in/delaunoy-cl%C3%A9ment-10a433220/) - Let's connect on LinkedIn
+- [Instagram](https://www.instagram.com/dln_cle/) - Follow me on Instagram
+- [Mail](mailto:delaunoyclement@gmail.com) - Contact me anytime
+- [GitLab](https://gitlab.com/ClemD05) - GitLab
+- [Discord](https://discord.gg/exbaUF2v5k) - Join me on Discord
+
+## Footer
+
+Made with 🍺 by [Clément Delaunoy](https://kuramentooo.github.io/dev-portfolio/)
