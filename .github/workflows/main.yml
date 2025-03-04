@@ -37,14 +37,14 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     needs: build
+    if: github.ref == 'refs/heads/main'
     
     steps:
     - name: Deploy to GitHub Pages
-      if: github.ref == 'refs/heads/main'
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
 
     - name: Output GitHub Pages URL
-      run: echo "GitHub Pages deployed at: https://<your-username>.github.io/<your-repo-name>"
+      run: echo "GitHub Pages deployed at: https://${{ github.repository_owner }}.github.io/${{ github.repository }}"
