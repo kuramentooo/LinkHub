@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Astro](https://astro.build/assets/press/astro-icon-light-gradient.svg)
-
 [![Available at](https://img.shields.io/badge/Available%20at-Astro%20Themes-purple?style=for-the-badge&link=https://astro.build/themes/details/astrolinkhub/)](https://astro.build/themes/details/astrolinkhub)
 
 </div>
@@ -12,12 +10,11 @@
 
 <div align="center">
 
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-Open source links page, customizable via JSON. Made with Astro 4.
+Open source links page, customizable via JSON.
 
 </div>
 
@@ -49,9 +46,6 @@ Open source links page, customizable via JSON. Made with Astro 4.
 
 
 ## About The Project
-
-> [!IMPORTANT]
-> I'm glad to announce that this project is available on [Astro Themes](https://astro.build/themes/details/astrolinkhub)! 🚀
 
 For a while I was thinking about how popular link pages have become, both for companies and individuals. I've never liked the "free" solutions that many companies provide where they self-promote on every page you create.
 
@@ -181,3 +175,4 @@ Je suis Clément Delaunoy, Ingénieur DevOps en Alternance. Passionné par la te
 ## Footer
 
 Made with 🍺 by [Clément Delaunoy](https://kuramentooo.github.io/dev-portfolio/)
+````
