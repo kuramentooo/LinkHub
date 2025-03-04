@@ -10,7 +10,7 @@
     "secondColor": "#B38AC2"
   },
   "header": {
-    "image": "/me_avatar.jpg",
+    "image": "/public/profile.webp",
     "alt": "The owner of this website.",
     "title": "Clément Delaunoy",
     "description": "Ingénieur DevOps en Alternancce",
@@ -82,7 +82,7 @@
     {
       "network": "Link",
       "url": "https://gitlab.com/ClemD05",
-      "title": "See more templates",
+      "title": "GitLab",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
