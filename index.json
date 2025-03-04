@@ -19,23 +19,23 @@
   "socials": [
     {
       "network": "GitHub",
-      "username": "marcosklender",
-      "url": "https://github.com/marcosklender"
+      "username": "clementdelaunoy",
+      "url": "https://github.com/kuramentooo"
     },
     {
       "network": "LinkedIn",
-      "username": "marcosklender",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US"
+      "username": "clementdelaunoy",
+      "url": "https://www.linkedin.com/in/delaunoy-cl%C3%A9ment-10a433220/"
     },
     {
       "network": "Instagram",
-      "username": "marcosklender",
-      "url": "https://www.instagram.com/marcosklender"
+      "username": "clementdelaunoy",
+      "url": "https://www.instagram.com/dln_cle/"
     },
     {
       "network": "Mail",
-      "username": "marcosklender",
-      "url": "mailto:marcosklender@gmail.com"
+      "username": "clementdelaunoy",
+      "url": "delaunoyclement@gmail.com"
     },
     {
       "network": "Link",
@@ -89,7 +89,7 @@
     }
   ],
   "footer": {
-    "copyright": "Made with 🍺 by MarcosKlender 🇪🇨",
+    "copyright": "Made with 🍺 by ClémentDelaunoy",
     "url": "https://marcosklender.com"
   }
 }
