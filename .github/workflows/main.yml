@@ -32,5 +32,5 @@ jobs:
         publish_dir: ./build
 
     - name: Output GitHub Pages URL
-      run: echo "GitHub Pages deployed at: https://<your-username>.github.io/<your-repo-name>"
+      run: echo "GitHub Pages deployed at: https://kuramentooo.github.io/LinkHub"
 *
