@@ -10,10 +10,10 @@
     "secondColor": "#B38AC2"
   },
   "header": {
-    "image": "/me_avatar.png",
+    "image": "/me_avatar.jpg",
     "alt": "The owner of this website.",
-    "title": "Marcos Carrasco",
-    "description": "Full Stack Developer",
+    "title": "Clément Delaunoy",
+    "description": "Ingénieur DevOps en Alternancce",
     "textColor": "white"
   },
   "socials": [
@@ -46,8 +46,8 @@
   "featured": [
     {
       "network": "GitHub",
-      "url": "https://github.com/MarcosKlender/AstroLinkHub",
-      "title": "Use this template and star it (:",
+      "url": "https://github.com/kuramentooo",
+      "title": "Watch my projects",
       "textColor": "#FFF",
       "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
       "backgroundColor": null,
@@ -57,7 +57,7 @@
   "buttons": [
     {
       "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US",
+      "url": "https://www.linkedin.com/in/delaunoy-cl%C3%A9ment-10a433220/",
       "title": "Let's connect on LinkedIn",
       "textColor": "#FFF",
       "backgroundColor": "#000",
@@ -65,7 +65,7 @@
     },
     {
       "network": "Instagram",
-      "url": "https://www.instagram.com/marcosklender",
+      "url": "https://www.instagram.com/dln_cle/",
       "title": "Follow me on Instagram",
       "textColor": "#FFF",
       "backgroundColor": "#000",
@@ -73,7 +73,7 @@
     },
     {
       "network": "Mail",
-      "url": "mailto:marcosklender@gmail.com",
+      "url": "delaunoyclement@gmail.com",
       "title": "Contact me anytime",
       "textColor": "#FFF",
       "backgroundColor": "#000",
