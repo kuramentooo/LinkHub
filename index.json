@@ -10,7 +10,7 @@
     "secondColor": "#B38AC2"
   },
   "header": {
-    "image": "/public/profile.webp",
+    "image": "/profile.webp",
     "alt": "The owner of this website.",
     "title": "Clément Delaunoy",
     "description": "Ingénieur DevOps en Alternancce",
@@ -90,6 +90,6 @@
   ],
   "footer": {
     "copyright": "Made with 🍺 by ClémentDelaunoy",
-    "url": "https://marcosklender.com"
+    "url": "https://kuramentooo.github.io/dev-portfolio/"
   }
 }
