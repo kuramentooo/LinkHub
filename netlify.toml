@@ -1,0 +1,27 @@
+[build]
+  publish = "dist"
+  command = "pnpm build"
+
+[context.production.environment]
+  NODE_VERSION = "18.17.1"
+
+[context.deploy-preview]
+  command = "pnpm build"
+
+[context.deploy-preview.environment]
+  NODE_VERSION = "18.17.1"
+
+[context.branch-deploy]
+  command = "pnpm build"
+
+[context.branch-deploy.environment]
+  NODE_VERSION = "18.17.1"
+
+[context.next.environment]
+  NODE_VERSION = "18.17.1"
+
+[build.environment]
+  NODE_VERSION = "18.17.1"
+
+[site]
+  name = "linkhub-clementdelaunoy"
