@@ -97,7 +97,7 @@
       "url": "https://discord.gg/exbaUF2v5k",
       "title": "Join me on Discord",
       "textColor": "#FFF",
-      "backgroundColor": "#7289DA",
+      "backgroundColor": "#000",
       "borderRadius": ".75rem"
     }
   ],
