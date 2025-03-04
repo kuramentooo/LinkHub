@@ -40,7 +40,7 @@
     {
       "network": "Link",
       "username": "JSONLinks",
-      "url": "https://jsonlinks.netlify.app/templates"
+      "url": "https://gitlab.com/ClemD05"
     }
   ],
   "featured": [
@@ -81,7 +81,7 @@
     },
     {
       "network": "Link",
-      "url": "https://jsonlinks.netlify.app/templates",
+      "url": "https://gitlab.com/ClemD05",
       "title": "See more templates",
       "textColor": "#FFF",
       "backgroundColor": "#000",
