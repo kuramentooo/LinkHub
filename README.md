@@ -1,18 +1,18 @@
-# AstroLinkHub
+# LinkHub
 
 ## Télécharger le dépôt GitHub
 
 Pour cloner ce dépôt sur votre ordinateur, exécutez la commande suivante :
 
 ```sh
-git clone git@github.com:MarcosKlender/AstroLinkHub.git
+git clone git@github.com:kuramentooo/LinkHub.git
 ```
 
 ## Utilisation
 
 1. Accédez au répertoire du projet :
    ```sh
-   cd AstroLinkHub
+   cd LinkHub
    ```
 
 2. Installez les dépendances Astro :
