@@ -10,7 +10,7 @@
     "secondColor": "#B38AC2"
   },
   "header": {
-    "image": "/profile.webp",
+    "image": "/profile.webp", // Ensure this path is correct and the file exists
     "alt": "The owner of this website.",
     "title": "Clément Delaunoy",
     "description": "Ingénieur DevOps en Alternancce",
